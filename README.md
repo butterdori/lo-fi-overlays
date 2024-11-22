@@ -12,6 +12,6 @@ Attributions: [Jeltr0n](https://github.com/Jeltr0n/Retro-Overlays), [cizia64](ht
 <img src="preview/gba-dark.png" alt="gba-dark" width="600px">
 
 #### Transparent Purple (See-through PCB) ####
-<img src="preview/gba-transparent-purple.png" alt="gba-transparent-purple" width="600px">
+<img src="preview/gba-transparent-purple.png" alt="gba-transparent-purple" width="1200px">
 
 
