@@ -7,3 +7,4 @@ Attribution: [Jeltr0n]([url](https://github.com/Jeltr0n/Retro-Overlays)), [cizia
 ![gba](preview/gba.png)
 ![gba-dark](preview/gba-dark.png)
 ![gba-transparent-purple](preview/gba-transparent-purple.png)
+<img src="preview/gba.png" alt="Alt text" width="600px">
