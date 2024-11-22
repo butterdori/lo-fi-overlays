@@ -1,4 +1,4 @@
-# Lo-Fi-Overlays
+# Lo-Fi Overlays
 Lo-Fi, unobtrusive overlays for 16:9 retro gaming handhelds such as Retroid Pocket 4/Retroid Pocket 4 Pro. For use with RetroArch.  
   
 Attributions: [Jeltr0n](https://github.com/Jeltr0n/Retro-Overlays), [cizia64](https://github.com/cizia64/CrossMix-OS)
