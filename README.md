@@ -6,8 +6,10 @@ Attribution: [Jeltr0n]([url](https://github.com/Jeltr0n/Retro-Overlays)), [cizia
 ### Game Boy Advance (GBA) ###
 #### Default ####
 <img src="preview/gba.png" alt="gba" width="600px">
+
 #### Dark ####
 <img src="preview/gba-dark.png" alt="gba-dark" width="600px">
+
 #### Transparent Purple ####
 <img src="preview/gba-transparent-purple.png" alt="gba-transparent-purple" width="600px">
 
