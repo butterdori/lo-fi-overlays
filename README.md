@@ -4,6 +4,6 @@ Attribution: [Jeltr0n]([url](https://github.com/Jeltr0n/Retro-Overlays)), [cizia
 
 ## 16:9, 1334x750 resolution ##
 ### Game Boy Advance (GBA) ###
-![gba](previewimages/gba.png)
-![gba-dark](previewimages/gba-dark.png)
-![gba-transparent-purple](previewimages/gba-transparent-purple.png)
+![gba](preview/gba.png)
+![gba-dark](preview/gba-dark.png)
+![gba-transparent-purple](preview/gba-transparent-purple.png)
