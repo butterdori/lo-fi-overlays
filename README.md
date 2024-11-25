@@ -6,12 +6,12 @@ Attributions: [Jeltr0n](https://github.com/Jeltr0n/Retro-Overlays), [cizia64](ht
 ## 16:9, 1334x750 resolution (Retroid Pocket 4/Pro) ##
 ### Game Boy Advance (GBA) ###
 #### Default ####
-<img src="preview/gba.png" alt="gba" width="600px">
+<img src="preview/LoFi_GBA_750p_preview.png" alt="gba" width="600px">
 
 #### Dark ####
-<img src="preview/gba-dark.png" alt="gba-dark" width="600px">
+<img src="preview/LoFi_GBA_dark_750p_preview.png" alt="gba-dark" width="600px">
 
 #### Transparent Purple (See-through PCB) ####
-<img src="preview/gba-transparent-purple.png" alt="gba-transparent-purple" width="1200px">
+<img src="preview/LoFi_GBA_transpurp_750p_preview.png" alt="gba-transparent-purple" width="1200px">
 
 
