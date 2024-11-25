@@ -3,7 +3,8 @@ Lo-Fi, unobtrusive overlays for 16:9 retro gaming handhelds such as Retroid Pock
   
 Attributions: [Jeltr0n](https://github.com/Jeltr0n/Retro-Overlays), [cizia64](https://github.com/cizia64/CrossMix-OS)  
 
-Apply using RetroArch Quick Menu -> On-Screen Overlay. Set Overlay Opacity to 1.00  
+Apply using RetroArch Quick Menu -> On-Screen Display -> Overlay Preset. Set Overlay Opacity to 1.00.  
+To set it permanent, Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Overrides.
 
 ## 16:9, 1334x750 resolution (Retroid Pocket 4/Pro) ##
 ### Game Boy Advance (GBA) ###
