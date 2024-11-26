@@ -6,7 +6,7 @@ Attributions: [Jeltr0n](https://github.com/Jeltr0n/Retro-Overlays), [cizia64](ht
 Apply using RetroArch Quick Menu -> On-Screen Display -> Overlay Preset. Set Overlay Opacity to 1.00.  
 To set it permanent, Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Overrides.
 
-## 16:9, 1334x750 resolution (Retroid Pocket 4/Pro) ##
+## 16:9, 1334x750 resolution (Retroid Pocket 3+/Retroid Pocket 4/Pro) ##
 ### Game Boy Advance (GBA) ###
 #### Default ####
 <img src="preview/LoFi_GBA_750p_preview.png" alt="gba" width="600px">
