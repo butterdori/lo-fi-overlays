@@ -3,8 +3,15 @@ Lo-Fi, unobtrusive overlays for 16:9 retro gaming handhelds such as, and tested 
   
 Attributions: [Jeltr0n](https://github.com/Jeltr0n/Retro-Overlays), [cizia64](https://github.com/cizia64/CrossMix-OS)  
 
-Apply using RetroArch Quick Menu -> On-Screen Display -> Overlay Preset. Set Overlay Opacity to 1.00.  
-To set it permanent, Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Overrides.
+Apply using RetroArch Quick Menu
+```
+Quick Menu -> On-Screen Display -> Overlay Preset
+Overlay Opacity 1.00
+```
+To set it permanent
+```
+Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Overrides.
+```
 
 ### Game Boy Advance (GBA) ###
 #### Default ####
