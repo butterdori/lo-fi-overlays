@@ -14,6 +14,9 @@ Quick Menu -> Overrides -> Save Game Overrides OR Save Content Directory Overrid
 ```
 
 ### Game Boy Advance (GBA) ###
+### No overlay ###
+<img src="preview/original.png" alt="gba" width="600px">
+
 #### Default ####
 <img src="preview/LoFi_GBA_750p_preview.png" alt="gba" width="600px">
 
