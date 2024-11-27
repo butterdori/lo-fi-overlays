@@ -21,6 +21,6 @@ Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Override
 <img src="preview/LoFi_GBA_dark_750p_preview.png" alt="gba-dark" width="600px">
 
 #### Transparent Purple (See-through PCB) ####
-<img src="preview/LoFi_GBA_transpurp_750p_preview.png" alt="gba-transparent-purple" width="1200px">
+<img src="preview/LoFi_GBA_transpurp_750p_preview2.png" alt="gba-transparent-purple" width="1200px">
 
 
