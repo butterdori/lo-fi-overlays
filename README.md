@@ -8,7 +8,7 @@ Apply using RetroArch Quick Menu
 Quick Menu -> On-Screen Display -> Overlay Preset
 Overlay Opacity 1.00
 ```
-To set it permanent
+To set it permanent,
 ```
 Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Overrides.
 ```
