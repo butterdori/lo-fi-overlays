@@ -10,7 +10,7 @@ Overlay Opacity 1.00
 ```
 To set it permanent,
 ```
-Quick Menu -> Overrides -> Save Game Overides OR Save Content Directory Overrides.
+Quick Menu -> Overrides -> Save Game Overrides OR Save Content Directory Overrides.
 ```
 
 ### Game Boy Advance (GBA) ###
